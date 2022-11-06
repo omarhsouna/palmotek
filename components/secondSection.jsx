@@ -6,8 +6,6 @@ import {
   useMediaQuery,
   useTheme,
 } from "@mui/material";
-import React from "react";
-import Container from "@mui/material/Container";
 import Image from "next/image";
 const SecondSection = () => {
   const theme = useTheme();
