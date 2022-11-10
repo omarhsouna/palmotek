@@ -16,6 +16,7 @@ const Header = () => {
         boxShadow: "0 0.125rem 0.25rem rgb(0 0 0 / 8%)",
         width: "100%",
         px: { xs: "0", sm: "10px", lg: "83px" },
+        zIndex: "10000",
       }}
     >
       <Box

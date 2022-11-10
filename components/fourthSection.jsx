@@ -35,7 +35,9 @@ const FourthSection = () => {
           sx={{
             color: "#6c757d",
           }}
-        ></Typography>
+        >
+          No need for additional internet connection
+        </Typography>
       </Grid>
       <Grid
         item
